@@ -1,6 +1,7 @@
 # Electricity Bill Calculator
 This is my private tool to calculate electricity fee for each vendor and export it as a CSV file.
 
+## CSV sample
 The exported csv looks like as follows:
 
 | kwh_at | chuden |  htb  |  koyo | sanix | looop | mitsuuroko |
@@ -56,3 +57,8 @@ The exported csv looks like as follows:
 |    580 |  15457 | 14655 | 14383 | 14210 | 13920 |      14239 |
 |    590 |  15747 | 14930 | 14655 | 14455 | 14160 |      14497 |
 |    600 |  16038 | 15206 | 14927 | 14700 | 14400 |      14754 |
+
+## Chart
+When you chart it with Google docs it looks something like this.
+![エビフライトライアングル](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBTUrfSqSRpKIZkMT3YlhO3yQ1bAq_8DvRTWnyeZLr-KBiaCsBIPc-htUSrUuSEa1tO7dIog135wBb/pubchart?oid=88641024&format=image)
+
